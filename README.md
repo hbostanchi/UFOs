@@ -15,11 +15,12 @@ Update and populate the dynamic filters and table using JavaScript and HTML.
 ## Challenge instructions:
 Include five total filters in the table:
 
-1- Date
-2- City
-3- State
-4- Country
-5- Shape
+1. Date
+2. City
+3. State
+4. Country
+5. Shape
+
 To create these additional filters, keep the following points in mind:
 
 - You will need to create a new function that will replace your handleClick(); function. This function saves the element, value, and the id of the filter that was changed.
