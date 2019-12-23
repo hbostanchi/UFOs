@@ -1,11 +1,19 @@
 # UFOs
 ## Modual Overview:
 In this module, we worked with VS code to built a table with javascript.  
-We organized the webpage with Bootstrap to customized the look of it.we built a navbar with html for the header and then add on with the title and paragraphs and tables.We also created filters to respond users input and make it more dynamic, so they interact with the filters. And finally we css to customize the color and add image and make it how we like.
+We organized the webpage with Bootstrap to customized and equip the table with several fully functional filters to allow users to interact with visualizations.we built a navbar with html for the header and then add on with the title and paragraphs and tables.We also created filters to respond users input and make it more dynamic, so they interact with the filters. And finally we css to customize the color and add image and make it how we like.
 ![webeimage](https://github.com/hbostanchi/UFOs/blob/master/static/images/webpage.png)
 ## Resources:
 Software: VS Code
 Data Source: data.js
+
+## Modual Summery:
+JavaScript is a well-established coding language that was designed to enhance HTML. It’s the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.
+ECMAScript, also referred to as “ES,” is a scripting language designed to help standardize JavaScript. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the proper syntax.
+
+Because ES has provided standardization for JavaScript, it also brings updates to the language. There are updates to every major coding language that fix bugs, update code, and provide overall quality of life improvements for the developers. ES6 is no exception!
+
+There have been many updates to ES over the years, though the sixth update was a major one. You’ll probably see “ES6+” mentioned out in the wild pretty often; this is a reference to the “big” update (ES6) as well as the later ones. It’s also commonly known as “ES2015” or “ECMAScript 2015.”
 
 ## Challenge Summary:
 Create, update, and deploy JavaScript functions to provide additional table filters.
