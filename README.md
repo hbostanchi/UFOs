@@ -8,7 +8,7 @@ Software: VS Code
 Data Source: data.js
 
 ## Modual Summery:
--JavaScript:
+JavaScript:
 JavaScript is a well-established coding language that was designed to enhance HTML. It’s the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.
 
 JavaScript is one of the powerhouse languages out in the wild today. While its strength is in creating visually appealing and dynamic content, it is starting to grow into other fields as well. Tensorflow, a popular machine learning tool, even has its own JavaScript library now.
