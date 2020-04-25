@@ -4,8 +4,16 @@ In this module, we worked with VS code to built a table with javascript.
 We organized the webpage with Bootstrap to customized and equip the table with several fully functional filters to allow users to interact with visualizations.we built a navbar with html for the header and then add on with the title and paragraphs and tables.We also created filters to respond users input and make it more dynamic, so they interact with the filters. And finally we css to customize the color and add image and make it how we like.
 ![webeimage](https://github.com/hbostanchi/UFOs/blob/master/static/images/webpage.png)
 ## Resources:
-Software: VS Code
-Data Source: data.js
+- Software: VS Code
+- Data Source: data.js
+
+## Objectives
+Explain the strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+.
+Describe JavaScript syntax and ideal use cases.
+Build and deploy JavaScript functions, including built-in functions.
+Convert JavaScript functions to arrow functions.
+Build and deploy forEach (JavaScript for loop).
+Create, populate, and dynamically filter a table using JavaScript and HTML.
 
 ## Modual Summery:
 ### JavaScript:
@@ -19,6 +27,16 @@ ECMAScript, also referred to as “ES,” is a scripting language designed to he
 Because ES has provided standardization for JavaScript, it also brings updates to the language. There are updates to every major coding language that fix bugs, update code, and provide overall quality of life improvements for the developers. ES6 is no exception!
 
 There have been many updates to ES over the years, though the sixth update was a major one. You’ll probably see “ES6+” mentioned out in the wild pretty often; this is a reference to the “big” update (ES6) as well as the later ones. It’s also commonly known as “ES2015” or “ECMAScript 2015.”
+
+- developers didn't have to wait for new technology to catch up. Normally, that would be waiting on the user to update their web browser to use the product.
+
+- ES6 is backward compatible. The developer can write in any version of ES and the program will run.
+
+- Arrow functions. Abbreviated syntax that made object-oriented code easier to write.
+
+The standard set in writing JavaScript code is to keep it consistent. It allows for code clarity. As a developer the readability of our code is the most important thing. It will make projects easier when collaborating or bugs faster to address.
+
+Our [app.js](https://github.com/hbostanchi/UFOs/blob/master/static/js/app.js)
 
 ## Challenge Summary:
 Create, update, and deploy JavaScript functions to provide additional table filters.
