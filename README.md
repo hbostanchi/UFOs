@@ -94,3 +94,6 @@ Rebuild the table by calling the buildTable(); function created earlier.
 - Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
 
 ![challengeimage](https://github.com/hbostanchi/UFOs/blob/master/static/images/challengefilters.png)
+
+
+(Live Demo)[https://hbostanchi.github.io/UFOs/]
