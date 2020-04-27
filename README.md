@@ -36,7 +36,7 @@ The const declaration is more specific than let. Instead of being contained with
 
 ## Resources:
 - Software: VS Code
-- Data Source: data.js
+- Data Source: [data.js](https://github.com/hbostanchi/UFOs/blob/master/static/js/data.js)
 
 ## Objectives
 - Explain the strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+.
@@ -96,4 +96,4 @@ Rebuild the table by calling the buildTable(); function created earlier.
 ![challengeimage](https://github.com/hbostanchi/UFOs/blob/master/static/images/challengefilters.png)
 
 
-(Live Demo)[https://hbostanchi.github.io/UFOs/]
+[Live Demo](https://hbostanchi.github.io/UFOs/)
